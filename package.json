@@ -1,0 +1,19 @@
+{
+  "name": "composed-multi-graph",
+  "version": "1.0.0",
+  "description": "图片拼接脚本",
+  "main": "main.js",
+  "author": "V",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "colors-cli": "^1.0.26",
+    "commander": "^5.0.0",
+    "imageinfo": "^1.0.4",
+    "node-pre-gyp": "^0.14.0",
+    "prompt": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
